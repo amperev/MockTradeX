@@ -1,4 +1,22 @@
-# mock_tradex
+# Mock_tradex
+
+<div align="grid">
+<h1>Graph Screen</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535847-d3c83abe-44eb-402f-9e32-c630292013f2.jpg" width=300 >
+<h1>Exchange</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535850-06987aa4-8b88-4bde-a3ff-376e1dc17d71.jpg" width=300 >
+<h1>News</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535846-bfc9e793-ee0d-4e6d-bce3-6b60bdcd2668.jpg" width=300 >
+<h1>Trade</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535845-1c79a019-d372-4250-a599-bcbc04086f41.jpg" width=300 >
+<h1>Index</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535844-219d3dd3-624a-4c0f-876f-2fd27074b5b2.jpg" width=300 >
+<h1>Login</h1>
+<img src="https://user-images.githubusercontent.com/79362508/212535842-269e1a7c-66fb-4d79-9dbd-5bc405524f60.jpg" width=300 >
+</div>
+
+
+
 
 A new Flutter project.
 
@@ -37,4 +55,5 @@ A new Flutter project.
 - then run: git commit -m "short description of your work"
 - git push origin master
 - Create a PR
+
 
